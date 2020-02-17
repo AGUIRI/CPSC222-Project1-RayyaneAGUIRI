@@ -12,6 +12,10 @@
     background-size: cover;
     position:absolute;
 }
+.logo{
+    height:40px;
+    margin:5px 10px;
+}
 .form-box{
     width:380px;
     height:480px;
